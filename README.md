@@ -1,2 +1,8 @@
-# sf_data_science
-Projects within SF Data Science Pro course
+# My Data Science projects
+Projects within SF Data Science Pro course (https://skillfactory.ru/data-scientist-pro)
+
+## Проекты
+
+*[Проект 0. Игра: Угадай число]  (https://github.com/AndreiShchurenkov/sf_data_science/tree/main/project_0)
+*[Проект 1. ____________]  ()
+*[Проект 2. ____________]  ()
