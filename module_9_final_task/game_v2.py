@@ -58,10 +58,8 @@ def score_game(predict_by_more_less) -> int:
         count_ls.append(predict_by_more_less(number))
   
     score = int(mean(count_ls))
-    score_max = int(max(count_ls))
     
     print(f"Ваш алгоритм угадывает число в среднем за {score} попыток")
-    print(f"Максимальное число попыток в 1000 повторений: {score_max}")
     return score
 
 
