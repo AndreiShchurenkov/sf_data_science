@@ -9,3 +9,5 @@ Projects within SF Data Science Pro course (https://skillfactory.ru/data-scienti
 Ссылка на файлы с данными https://drive.google.com/drive/folders/1LyhTCwJjNPAs7Q7II1ECxvN45WqxxEde?usp=sharing
 
 * [Проект 2. Проект: Анализ вакансий из HeadHunter]  (https://github.com/AndreiShchurenkov/sf_data_science/tree/main/project_2) 
+
+* [Проект 2. Проект: EDA + Feature Engineering]  (https://github.com/AndreiShchurenkov/sf_data_science/tree/main/project_3) 
